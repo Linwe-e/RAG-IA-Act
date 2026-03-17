@@ -13,7 +13,11 @@
 
 ## 🖼️ Aperçu visuel
 
-[Voir le screenshot complet de l'application](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
+<a href="./screencapture-localhost-8501-2026-03-17-20_17_09.png">
+  <img src="./screencapture-localhost-8501-2026-03-17-20_17_09.png" alt="Preview de l'application RAG IA Act" width="420" />
+</a>
+
+[Agrandir le screenshot](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
 
 ## TL;DR
 
@@ -715,7 +719,11 @@ Ce projet n'aurait pas été possible sans :
 
 ## Visual Preview
 
-[Open the full app screenshot](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
+<a href="./screencapture-localhost-8501-2026-03-17-20_17_09.png">
+  <img src="./screencapture-localhost-8501-2026-03-17-20_17_09.png" alt="RAG AI Act app preview" width="420" />
+</a>
+
+[Open full-size screenshot](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
 
 ---
 
