@@ -11,6 +11,10 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.50-red.svg)](https://streamlit.io/)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-success.svg)]()
 
+## 🖼️ Aperçu visuel
+
+[Voir le screenshot complet de l'application](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
+
 ## TL;DR
 
 - Projet RAG bilingue (EN corpus -> réponses FR) sur l'AI Act européen.
@@ -708,6 +712,10 @@ Ce projet n'aurait pas été possible sans :
 [![Ollama](https://img.shields.io/badge/Ollama-local-orange.svg)](https://ollama.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.50-red.svg)](https://streamlit.io/)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-success.svg)]()
+
+## Visual Preview
+
+[Open the full app screenshot](./screencapture-localhost-8501-2026-03-17-20_17_09.png)
 
 ---
 
